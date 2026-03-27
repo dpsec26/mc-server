@@ -50,7 +50,7 @@ docker compose up -d
 ```
 
 Your Minecraft server is now available under `<your-ip>`.
-If you changed the the `MC_SERVER_PORT` in the `.env` you need to specify it. Example: `localhost:12345`
+If you changed the `MC_SERVER_PORT` in the `.env` you need to specify it. Example: `localhost:12345`
 
 To stop the container use
 ```sh
