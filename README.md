@@ -1,5 +1,4 @@
-# mc-server
-
+# Minecraft Server 26.1 Java Edition
 This is the containerized version of a Minecraft 26.1 Java Edition server.
 
 ## Table of contents
